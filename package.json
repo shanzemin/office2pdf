@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/shanzemin/office2pdf/issues"
   },
-  "homepage": "https://github.com/shanzemin/office2pdf#readme"
+  "homepage": "https://github.com/shanzemin/office2pdf#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "office-to-pdf": "^4.0.0"
+  }
 }
