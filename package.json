@@ -1,0 +1,19 @@
+{
+  "name": "office2pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanzemin/office2pdf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanzemin/office2pdf/issues"
+  },
+  "homepage": "https://github.com/shanzemin/office2pdf#readme"
+}
